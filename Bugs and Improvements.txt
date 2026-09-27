@@ -1,0 +1,10 @@
+To be honest, i could not add following mouse part. However, I added motion with "W" and "S". Additionally I could not make
+enemy, because whenever i added it would write me it is inherit Character, not node2d, but when i made it into node2d, it
+would not work anyway. I am also confused how to make it work a little better, so it had smoother bouncing in the ball.
+The ball bounce, but not as good as it could be.
+
+I wish i could add scoring system and having an end, to be able to retry the game. I watched some tutorials having enemy's 
+motions being right after ball, but wish i could make it a little slower rather ball's movement to make it possible to win?
+Or maybe making it as two player game.
+
+In css part, i drew the pixels myself, that's why is also a little quirky looking
